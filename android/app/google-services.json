@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "775345278558",
+    "project_id": "pureminds-41b84",
+    "storage_bucket": "pureminds-41b84.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:775345278558:android:7fa13f7a3487c48ca62ecf",
+        "android_client_info": {
+          "package_name": "com.example.pureminds"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbC99fQevRK4GqfQaUt1I_FOym9DwXKRw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
