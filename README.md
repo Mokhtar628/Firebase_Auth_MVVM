@@ -131,6 +131,6 @@ Contributions are welcome! If you’d like to contribute to this project:
 
 ---
 
-Feel free to reach out with questions or suggestions! Let's make this app even better together. 😊
+Feel free to reach out with questions or suggestions!. 😊
 
 
